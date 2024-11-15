@@ -1,4 +1,4 @@
-# API de Gestão de Consultório Médico
+# API de Gestão de Consultório Médico - Em produção
 
 Esta é uma API RESTful desenvolvida com **Spring Boot** para gestão de um consultório médico. A API permite o cadastro de pacientes, médicos, agendamentos e outros recursos necessários para o gerenciamento de um consultório. A aplicação inclui recursos de **segurança** usando **Spring Security** para autenticação e controle de acesso.
 
@@ -37,7 +37,7 @@ A persistência dos dados é realizada utilizando **MySQL** como banco de dados.
 - **JJWT (JSON Web Token)**: Para geração de tokens JWT para autenticação.
 
 ## Endpoints da API
-
+<img src="swagger-ui.png">
 
 ## Segurança e Autenticação
 
